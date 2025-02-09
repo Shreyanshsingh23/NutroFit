@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "netlify-cli": "^18.0.4",
+    "node-fetch": "^2.7.0"
+  }
+}
